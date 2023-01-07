@@ -1,2 +1,1 @@
-# O365-Desktop-Automator
-Power Automate for the Desktop. A python scripting layer that connects cloud-based O365 resources with Desktop scripts.
+# Dynamic web-based dashboard that can be plug and play with the O365-Rest-Api. Linked data sources are retrieved at run time and refreshes at preset intervals. PyScript python for webscripting, includes access to matplotlib and pandas on a browser...
